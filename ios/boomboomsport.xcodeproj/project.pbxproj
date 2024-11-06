@@ -15,6 +15,15 @@
 		7699B88040F8A987B510C191 /* libPods-boomboomsport-boomboomsportTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-boomboomsport-boomboomsportTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		B34D9254E0C6D90B301E61CB /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		1D46C43C88794C49A8FAD23D /* AlumniSans-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 02FDD103DF25430AAD651515 /* AlumniSans-Black.ttf */; };
+		90415CD2556144159435577F /* AlumniSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F287FE4F0654B14BC914552 /* AlumniSans-Bold.ttf */; };
+		79C0CF15657D4EE4B0BAA506 /* AlumniSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EBB9A9C5BA634239A92FD51F /* AlumniSans-ExtraBold.ttf */; };
+		54B1FBCAA35E45E2A7438749 /* AlumniSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9AF606E756B1402188729A07 /* AlumniSans-Italic.ttf */; };
+		5EDE5178765F400A89E27395 /* AlumniSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38004E9ECDCF42558DDAC107 /* AlumniSans-Light.ttf */; };
+		155618C9EBC34ABCB61CBF2F /* AlumniSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FECFF66BAADB4964BA7A11C4 /* AlumniSans-Medium.ttf */; };
+		F5504C286FB540C7A5C0B524 /* AlumniSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE82B10FC3E841959B3E0F30 /* AlumniSans-Regular.ttf */; };
+		515EEA8A17544C04B64C0A09 /* AlumniSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5FAB215A03334B7FB64196A0 /* AlumniSans-SemiBold.ttf */; };
+		DA632EB9FDEA4281AEB83ACA /* AlumniSans-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4A1C220D5E2F482F86BD629E /* AlumniSans-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +55,15 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = boomboomsport/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-boomboomsport-boomboomsportTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-boomboomsport-boomboomsportTests.release.xcconfig"; path = "Target Support Files/Pods-boomboomsport-boomboomsportTests/Pods-boomboomsport-boomboomsportTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		02FDD103DF25430AAD651515 /* AlumniSans-Black.ttf */ = {isa = PBXFileReference; name = "AlumniSans-Black.ttf"; path = "../assets/fonts/AlumniSans-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		7F287FE4F0654B14BC914552 /* AlumniSans-Bold.ttf */ = {isa = PBXFileReference; name = "AlumniSans-Bold.ttf"; path = "../assets/fonts/AlumniSans-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EBB9A9C5BA634239A92FD51F /* AlumniSans-ExtraBold.ttf */ = {isa = PBXFileReference; name = "AlumniSans-ExtraBold.ttf"; path = "../assets/fonts/AlumniSans-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9AF606E756B1402188729A07 /* AlumniSans-Italic.ttf */ = {isa = PBXFileReference; name = "AlumniSans-Italic.ttf"; path = "../assets/fonts/AlumniSans-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		38004E9ECDCF42558DDAC107 /* AlumniSans-Light.ttf */ = {isa = PBXFileReference; name = "AlumniSans-Light.ttf"; path = "../assets/fonts/AlumniSans-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FECFF66BAADB4964BA7A11C4 /* AlumniSans-Medium.ttf */ = {isa = PBXFileReference; name = "AlumniSans-Medium.ttf"; path = "../assets/fonts/AlumniSans-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BE82B10FC3E841959B3E0F30 /* AlumniSans-Regular.ttf */ = {isa = PBXFileReference; name = "AlumniSans-Regular.ttf"; path = "../assets/fonts/AlumniSans-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5FAB215A03334B7FB64196A0 /* AlumniSans-SemiBold.ttf */ = {isa = PBXFileReference; name = "AlumniSans-SemiBold.ttf"; path = "../assets/fonts/AlumniSans-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4A1C220D5E2F482F86BD629E /* AlumniSans-Thin.ttf */ = {isa = PBXFileReference; name = "AlumniSans-Thin.ttf"; path = "../assets/fonts/AlumniSans-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +143,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				CF3EECD29BA04924B1AC86A1 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -150,6 +169,23 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		CF3EECD29BA04924B1AC86A1 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				02FDD103DF25430AAD651515 /* AlumniSans-Black.ttf */,
+				7F287FE4F0654B14BC914552 /* AlumniSans-Bold.ttf */,
+				EBB9A9C5BA634239A92FD51F /* AlumniSans-ExtraBold.ttf */,
+				9AF606E756B1402188729A07 /* AlumniSans-Italic.ttf */,
+				38004E9ECDCF42558DDAC107 /* AlumniSans-Light.ttf */,
+				FECFF66BAADB4964BA7A11C4 /* AlumniSans-Medium.ttf */,
+				BE82B10FC3E841959B3E0F30 /* AlumniSans-Regular.ttf */,
+				5FAB215A03334B7FB64196A0 /* AlumniSans-SemiBold.ttf */,
+				4A1C220D5E2F482F86BD629E /* AlumniSans-Thin.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -247,6 +283,15 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				B34D9254E0C6D90B301E61CB /* PrivacyInfo.xcprivacy in Resources */,
+				1D46C43C88794C49A8FAD23D /* AlumniSans-Black.ttf in Resources */,
+				90415CD2556144159435577F /* AlumniSans-Bold.ttf in Resources */,
+				79C0CF15657D4EE4B0BAA506 /* AlumniSans-ExtraBold.ttf in Resources */,
+				54B1FBCAA35E45E2A7438749 /* AlumniSans-Italic.ttf in Resources */,
+				5EDE5178765F400A89E27395 /* AlumniSans-Light.ttf in Resources */,
+				155618C9EBC34ABCB61CBF2F /* AlumniSans-Medium.ttf in Resources */,
+				F5504C286FB540C7A5C0B524 /* AlumniSans-Regular.ttf in Resources */,
+				515EEA8A17544C04B64C0A09 /* AlumniSans-SemiBold.ttf in Resources */,
+				DA632EB9FDEA4281AEB83ACA /* AlumniSans-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

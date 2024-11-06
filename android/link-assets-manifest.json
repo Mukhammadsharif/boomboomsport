@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AlumniSans-Black.ttf",
+      "sha1": "bd26e9f26eebfcfc61ac6a918644e3b8204858b1"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-Bold.ttf",
+      "sha1": "31209831b568af29894b6a83e0fd6ddbed930b92"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-ExtraBold.ttf",
+      "sha1": "31648014d15ececee0cc5dc489dc9211edbe28d3"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-Italic.ttf",
+      "sha1": "4e178094c9f6abe92d1a329700b1d8be956b6cda"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-Light.ttf",
+      "sha1": "019af5488ecaf30868e67557cf6e038b95b4201b"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-Medium.ttf",
+      "sha1": "9ec269c1247f49ae814943a93dc4322c79f5d96a"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-Regular.ttf",
+      "sha1": "782a1cd1ec6d18739a1b2644228f498b74ed9712"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-SemiBold.ttf",
+      "sha1": "e7bc4cfc18dc995da1ee205434a97b5b04fb371f"
+    },
+    {
+      "path": "assets/fonts/AlumniSans-Thin.ttf",
+      "sha1": "6931e040baa8b4a323261530d6c65adf08ef1ea5"
+    }
+  ]
+}
